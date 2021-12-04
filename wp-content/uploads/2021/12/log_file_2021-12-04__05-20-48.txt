@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Barber Vintage were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = https://salon.test
+Data file = /var/www/html/wp-content/themes/argenta/demo/18/content.xml
+Widget file = /var/www/html/wp-content/themes/argenta/demo/18/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer column 1 : 
+
+Argenta: Logo - No Title - Imported
+Texto - No Title - Imported
+Argenta: Contact block - No Title - Imported
+
+Footer column 2 : 
+
+Argenta: Subscribe - Subscribe - Imported
+Texto - No Title - Imported
+Argenta: Socialbar subscribe - No Title - Imported
+
+Footer column 3 : 
+
+Categorías - Categories - Imported
+
+Shop : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product Categories - Imported
+Product Tag Cloud - Product Tags - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+
+Blog : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+Argenta: Recent Posts - Recent Posts - Imported
+Meta - Meta - Imported
+Argenta: Socialbar subscribe - Stay in Touch - Imported
+Comentarios recientes - Recent Comments - Imported
+
+
+
+---pt-ocdi/after_import---
+
